@@ -1,0 +1,11 @@
+Circuit Info Version 1
+Buzzer 
+	Input:		A1
+	Output:		GND 
+
+Motor
+	Red Wire: 	5V
+	Black Wire: 	GND
+	Yellow Wire:	A5
+
+ 
