@@ -5,7 +5,7 @@ Buzzer
 
 Motor
 	Red Wire: 	5V
-	Black Wire: 	GND
-	Yellow Wire:	A5
+	Brown Wire: 	GND
+	Orange Wire:	A5
 
  
